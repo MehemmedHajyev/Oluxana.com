@@ -1,0 +1,392 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-11 22:52+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: oluxana/settings.py:138
+msgid "Azerbaijani"
+msgstr ""
+
+#: oluxana/settings.py:139
+msgid "Russian"
+msgstr ""
+
+#: oluxana/settings.py:140
+msgid "English"
+msgstr ""
+
+#: oluxana_app/m.py:26 oluxana_app/m.py:27 oluxana_app/models.py:96
+#: oluxana_app/models.py:97 templates/about.html:272 templates/about.html:354
+#: templates/about.html:520 templates/about.html:524 templates/about.html:536
+#: templates/about.html:607 templates/contacUs.html:274
+#: templates/contacUs.html:356 templates/contacUs.html:660
+#: templates/elan-yerlesdir.html:272 templates/elan-yerlesdir.html:354
+#: templates/elan-yerlesdir.html:901 templates/ferdi-details.html:277
+#: templates/ferdi-details.html:359 templates/ferdi-details.html:629
+#: templates/ferdi.html:270 templates/ferdi.html:352 templates/ferdi.html:655
+#: templates/indbdle.html:272 templates/indbdle.html:354
+#: templates/indbdle.html:695 templates/index-3.html:272
+#: templates/index-3.html:354 templates/index-3.html:649
+msgid "Haqqımızda"
+msgstr ""
+
+#: oluxana_app/m.py:40 oluxana_app/m.py:41 oluxana_app/models.py:110
+#: oluxana_app/models.py:111
+msgid "Slayder"
+msgstr ""
+
+#: oluxana_app/m.py:51
+msgid "Banner"
+msgstr ""
+
+#: oluxana_app/m.py:52
+msgid "Bannerlər"
+msgstr ""
+
+#: oluxana_app/m.py:70 oluxana_app/models.py:162 templates/indbdle.html:548
+msgid "Marka"
+msgstr ""
+
+#: oluxana_app/m.py:71 oluxana_app/models.py:163
+msgid "Markalar"
+msgstr ""
+
+#: oluxana_app/m.py:84 oluxana_app/models.py:196
+msgid "Model"
+msgstr ""
+
+#: oluxana_app/m.py:85 oluxana_app/models.py:197
+msgid "Modellər"
+msgstr ""
+
+#: oluxana_app/m.py:94 oluxana_app/m.py:95 templates/indbdle.html:554
+msgid "Məhsul növü"
+msgstr ""
+
+#: oluxana_app/m.py:104 oluxana_app/models.py:230
+msgid "Axtarış üçün ünvan"
+msgstr ""
+
+#: oluxana_app/m.py:105 oluxana_app/models.py:231
+msgid "Axtarış üçün ünvanlar"
+msgstr ""
+
+#: oluxana_app/m.py:121 oluxana_app/models.py:247
+msgid "Ölüxana"
+msgstr ""
+
+#: oluxana_app/m.py:122 oluxana_app/models.py:248 templates/about.html:259
+#: templates/about.html:346 templates/about.html:605
+#: templates/contacUs.html:261 templates/contacUs.html:348
+#: templates/contacUs.html:658 templates/elan-yerlesdir.html:259
+#: templates/elan-yerlesdir.html:346 templates/elan-yerlesdir.html:899
+#: templates/ferdi-details.html:264 templates/ferdi-details.html:351
+#: templates/ferdi-details.html:627 templates/ferdi.html:257
+#: templates/ferdi.html:344 templates/ferdi.html:519 templates/ferdi.html:523
+#: templates/ferdi.html:653 templates/indbdle.html:259
+#: templates/indbdle.html:346 templates/indbdle.html:693
+#: templates/index-3.html:259 templates/index-3.html:346
+#: templates/index-3.html:647
+msgid "Ölüxanalar"
+msgstr ""
+
+#: oluxana_app/m.py:163 oluxana_app/models.py:288 templates/indbdle.html:524
+msgid "Fərdi elan"
+msgstr ""
+
+#: oluxana_app/m.py:164 oluxana_app/models.py:289
+#: templates/ferdi-details.html:526 templates/ferdi-details.html:530
+msgid "Fərdi elanlar"
+msgstr ""
+
+#: oluxana_app/m.py:174 oluxana_app/models.py:299
+msgid "Elan şəkili"
+msgstr ""
+
+#: oluxana_app/m.py:175 oluxana_app/models.py:300
+msgid "Elan şəkilləri"
+msgstr ""
+
+#: oluxana_app/m.py:185 oluxana_app/models.py:310
+msgid "Sosial şəbəkə"
+msgstr ""
+
+#: oluxana_app/m.py:186 oluxana_app/models.py:311
+msgid "Sosial şəbəkələr"
+msgstr ""
+
+#: oluxana_app/m.py:196 oluxana_app/m.py:197 oluxana_app/models.py:321
+#: oluxana_app/models.py:322 templates/about.html:276 templates/about.html:358
+#: templates/about.html:608 templates/contacUs.html:278
+#: templates/contacUs.html:360 templates/contacUs.html:554
+#: templates/contacUs.html:661 templates/elan-yerlesdir.html:276
+#: templates/elan-yerlesdir.html:358 templates/elan-yerlesdir.html:902
+#: templates/ferdi-details.html:281 templates/ferdi-details.html:363
+#: templates/ferdi-details.html:630 templates/ferdi.html:274
+#: templates/ferdi.html:356 templates/ferdi.html:656 templates/indbdle.html:276
+#: templates/indbdle.html:358 templates/indbdle.html:696
+#: templates/index-3.html:276 templates/index-3.html:358
+#: templates/index-3.html:650
+msgid "Əlaqə"
+msgstr ""
+
+#: oluxana_app/m.py:207 oluxana_app/models.py:332 templates/contacUs.html:586
+msgid "Telefon nömrəsi"
+msgstr ""
+
+#: oluxana_app/m.py:208 oluxana_app/models.py:333
+msgid "Telefon nömrələri"
+msgstr ""
+
+#: oluxana_app/m.py:218 oluxana_app/models.py:343
+msgid "Email ünvanı"
+msgstr ""
+
+#: oluxana_app/m.py:219 oluxana_app/models.py:344
+msgid "Email ünvanları"
+msgstr ""
+
+#: oluxana_app/m.py:232 oluxana_app/models.py:358
+msgid "Əsas məlumat"
+msgstr ""
+
+#: oluxana_app/m.py:233 oluxana_app/models.py:359
+msgid "Əsas məlumatlar"
+msgstr ""
+
+#: oluxana_app/models.py:121 oluxana_app/models.py:122
+msgid "Sol banner"
+msgstr ""
+
+#: oluxana_app/models.py:132 oluxana_app/models.py:133
+msgid "Sağ banner"
+msgstr ""
+
+#: oluxana_app/models.py:143 oluxana_app/models.py:144
+msgid "Mobil banner"
+msgstr ""
+
+#: oluxana_app/models.py:220 oluxana_app/models.py:221
+#: templates/elan-yerlesdir.html:553
+msgid "Məhsulun növü"
+msgstr ""
+
+#: templates/about.html:64 templates/contacUs.html:52
+#: templates/elan-yerlesdir.html:51 templates/ferdi-details.html:69
+#: templates/ferdi.html:61 templates/indbdle.html:51 templates/index-3.html:50
+msgid "YAXIN ZAMANDA"
+msgstr ""
+
+#: templates/about.html:252 templates/about.html:342 templates/about.html:384
+#: templates/about.html:523 templates/about.html:604
+#: templates/contacUs.html:254 templates/contacUs.html:344
+#: templates/contacUs.html:553 templates/contacUs.html:657
+#: templates/elan-yerlesdir.html:252 templates/elan-yerlesdir.html:342
+#: templates/elan-yerlesdir.html:498 templates/elan-yerlesdir.html:898
+#: templates/ferdi-details.html:257 templates/ferdi-details.html:347
+#: templates/ferdi-details.html:529 templates/ferdi-details.html:626
+#: templates/ferdi.html:250 templates/ferdi.html:340 templates/ferdi.html:522
+#: templates/ferdi.html:652 templates/indbdle.html:252
+#: templates/indbdle.html:342 templates/indbdle.html:527
+#: templates/indbdle.html:692 templates/index-3.html:252
+#: templates/index-3.html:342 templates/index-3.html:646
+msgid "Ana Səhifə"
+msgstr ""
+
+#: templates/about.html:266 templates/about.html:350 templates/about.html:606
+#: templates/contacUs.html:268 templates/contacUs.html:352
+#: templates/contacUs.html:659 templates/elan-yerlesdir.html:266
+#: templates/elan-yerlesdir.html:350 templates/elan-yerlesdir.html:900
+#: templates/ferdi-details.html:271 templates/ferdi-details.html:355
+#: templates/ferdi-details.html:628 templates/ferdi.html:264
+#: templates/ferdi.html:348 templates/ferdi.html:654 templates/indbdle.html:266
+#: templates/indbdle.html:350 templates/indbdle.html:694
+#: templates/index-3.html:266 templates/index-3.html:350
+#: templates/index-3.html:648
+msgid "Fərdi Elanlar"
+msgstr ""
+
+#: templates/about.html:411
+msgid "Axtar"
+msgstr ""
+
+#: templates/about.html:603 templates/contacUs.html:656
+#: templates/elan-yerlesdir.html:897 templates/ferdi-details.html:625
+#: templates/ferdi.html:651 templates/indbdle.html:691
+#: templates/index-3.html:645
+msgid "Keçidlər"
+msgstr ""
+
+#: templates/about.html:618 templates/contacUs.html:671
+#: templates/elan-yerlesdir.html:912 templates/ferdi-details.html:640
+#: templates/ferdi.html:666 templates/indbdle.html:706
+#: templates/index-3.html:660
+msgid "Sosial Linklər"
+msgstr ""
+
+#: templates/about.html:627 templates/contacUs.html:680
+#: templates/elan-yerlesdir.html:921 templates/ferdi-details.html:649
+#: templates/ferdi.html:675 templates/indbdle.html:715
+#: templates/index-3.html:669
+msgid "Facebook"
+msgstr ""
+
+#: templates/about.html:638 templates/contacUs.html:691
+#: templates/elan-yerlesdir.html:932 templates/ferdi-details.html:660
+#: templates/ferdi.html:686 templates/indbdle.html:726
+#: templates/index-3.html:680
+msgid "Twitter"
+msgstr ""
+
+#: templates/about.html:649 templates/contacUs.html:702
+#: templates/elan-yerlesdir.html:943 templates/ferdi-details.html:671
+#: templates/ferdi.html:697 templates/indbdle.html:737
+#: templates/index-3.html:691
+msgid "Instagram"
+msgstr ""
+
+#: templates/about.html:660 templates/contacUs.html:713
+#: templates/elan-yerlesdir.html:954 templates/ferdi-details.html:682
+#: templates/ferdi.html:708 templates/indbdle.html:748
+#: templates/index-3.html:702
+msgid "Tiktok"
+msgstr ""
+
+#: templates/contacUs.html:550
+msgid "Bizimlə Əlaqə"
+msgstr ""
+
+#: templates/contacUs.html:568
+msgid "E-poçt ünvanı"
+msgstr ""
+
+#: templates/contacUs.html:602
+msgid "Ofis Ünvanı"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:495 templates/elan-yerlesdir.html:499
+#: templates/elan-yerlesdir.html:652
+msgid "Elan Yerləşdir"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:513
+msgid "Maşının markası"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:528
+msgid "Maşının ili"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:534
+msgid "Qiyməti"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:540
+msgid "Elektron poçt ünvanı"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:548
+msgid "Maşının modeli"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:559
+msgid "Əlaqədar şəxs"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:565
+msgid "Satacağınız məhsul"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:572 templates/indbdle.html:549
+msgid "Motor"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:590
+msgid "Telefon"
+msgstr ""
+
+#: templates/elan-yerlesdir.html:644
+msgid "Şəkillər yüklə"
+msgstr ""
+
+#: templates/ferdi.html:561
+msgid "Şəkili"
+msgstr ""
+
+#: templates/ferdi.html:562
+msgid "Ünvanı"
+msgstr ""
+
+#: templates/ferdi.html:563
+msgid "Sahibinin adı"
+msgstr ""
+
+#: templates/ferdi.html:564 templates/indbdle.html:564
+msgid "Daha ətraflı"
+msgstr ""
+
+#: templates/ferdi.html:565
+msgid "Xəritədə yeri"
+msgstr ""
+
+#: templates/ferdi.html:566
+msgid "Whatsapp nömrəsi"
+msgstr ""
+
+#: templates/ferdi.html:593
+msgid "Xəritə"
+msgstr ""
+
+#: templates/indbdle.html:547
+msgid "Kateqoriya"
+msgstr ""
+
+#: templates/indbdle.html:550
+msgid "Buraxılış ili"
+msgstr ""
+
+#: templates/indbdle.html:551
+msgid "Nomre"
+msgstr ""
+
+#: templates/indbdle.html:552
+msgid "Email"
+msgstr ""
+
+#: templates/indbdle.html:553
+msgid "Qiymət"
+msgstr ""
+
+#: templates/indbdle.html:555
+msgid "Vəziyyət"
+msgstr ""
+
+#: templates/indbdle.html:576
+msgid "Oxşar Məhsullar"
+msgstr ""
+
+#: templates/index-3.html:516
+msgid "Ünvan"
+msgstr ""
+
+#: templates/index-3.html:524
+msgid "AXTAR"
+msgstr ""
+
+#: templates/index-3.html:578 templates/index-3.html:592
+msgid "Məhsul sayı"
+msgstr ""

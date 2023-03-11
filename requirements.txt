@@ -1,0 +1,13 @@
+asgiref
+Django
+sqlparse
+Pillow
+django-ckeditor
+xmltodict
+requests
+psycopg2
+uWSGI
+PyYAML
+django-rosetta
+django-modeltranslation
+python-dotenv
